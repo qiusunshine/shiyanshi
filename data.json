@@ -1,0 +1,262 @@
+﻿[
+    {
+        "name": "日常",
+        "id": "lifetool",
+        "result": [
+            {
+                "name": "胖次简历",
+                "url": "https://www.panc.cc/s/%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF/td",
+                "red": false
+            },
+            {
+                "name": "第1PPT",
+                "url": "http://www.1ppt.com/",
+                "red": false
+            },
+            {
+                "name": "Google镜像",
+                "url": "https://g.codery.ga/",
+                "red": true
+            },
+			{
+				"name": "爱看TV",
+				"url": "http://www.icantv.cn/",
+				"red": true
+            },
+            {
+                "name": "OCR识别",
+                "url": "https://zhcn.109876543210.com/",
+                "red": false
+            },
+            {
+                "name": "电视直播",
+                "url": "http://ivi.bupt.edu.cn/",
+                "red": false
+            },
+            {
+                "name": "bdy搜",
+                "url": "http://www.bdysou.com/",
+                "red": false
+            },
+            {
+                "name": "BT骡子",
+                "url": "https://www.btmule.org",
+                "red": false
+            },
+            {
+                "name": "百度简版",
+                "url": "https://m.baidu.com/?pu=sz%401321_480&wpo=btmfast",
+                "red": true
+            }
+        ]
+    },
+	{
+        "name": "影视",
+        "id": "movie",
+        "result": [
+            {
+                "name": "百万资源",
+                "url": "http://www.baiwanzy.com/",
+                "red": false
+            },
+            {
+                "name": "疯狂影视",
+                "url": "http://ifkdy.com/",
+                "red": false
+            },
+            {
+                "name": "方圆影视",
+                "url": "http://118.24.88.92:8080",
+                "red": true
+            },
+            {
+                "name": "88影视",
+                "url": "http://www.88ys.tv/",
+                "red": true
+            },
+            {
+                "name": "Neets",
+                "url": "http://neets.cc/",
+                "red": false
+            },
+            {
+                "name": "龙部落",
+                "url": "http://www.lbldy.com/",
+                "red": false
+            },
+            {
+                "name": "永久资源网",
+                "url": "http://www.yongjiuzy.com/",
+                "red": false
+            },
+            {
+                "name": "泡泡影视",
+                "url": "http://www.ppys.vc/",
+                "red": false
+            },
+            {
+                "name": "电影天堂",
+                "url": "https://www.dygod.net/",
+                "red": false
+            },
+            {
+                "name": "降龙影院",
+                "url": "http://xlyy100.com/",
+                "red": false
+            },
+            {
+                "name": "vip解析",
+                "url": "http://goudidiao.com/",
+                "red": false
+            },
+            {
+                "name": "首播影院",
+                "url": "http://www.a4yy.com/",
+                "red": true
+            }
+        ]
+    },
+    {
+        "name": "音乐",
+        "id": "music",
+        "result": [
+            {
+                "name": "方圆音乐",
+                "url": "http://118.24.88.92:16881",
+                "red": false
+            },
+            {
+                "name": "麦葱音乐",
+                "url": "http://music.2333.me/",
+                "red": true
+            },
+            {
+                "name": "屌丝音乐",
+                "url": "http://music.dsqndh.com/",
+                "red": false
+            },
+            {
+                "name": "无损音乐",
+                "url": "http://ape8.com/",
+                "red": false
+            },
+            {
+                "name": "Growio音乐",
+                "url": "https://music.mli.im/vip.music",
+                "red": false
+            }
+        ]
+    },
+    {
+        "name": "更多",
+        "id": "more",
+        "result": [
+            {
+                "name": "影视",
+                "url": "/more?class=影视",
+                "red": false
+            },
+            {
+                "name": "音乐",
+                "url": "/more?class=音乐",
+                "red": false
+            },
+            {
+                "name": "全部收藏",
+                "url": "/more?class=all",
+                "red": true
+            },
+            {
+                "name": "网盘磁力",
+                "url": "/more?class=网盘磁力",
+                "red": false
+            },
+            {
+                "name": "生活休闲",
+                "url": "/more?class=生活休闲",
+                "red": false
+            },
+            {
+                "name": "实用工具",
+                "url": "/more?class=实用工具",
+                "red": false
+            },
+            {
+                "name": "其它",
+                "url": "/more?class=其它",
+                "red": false
+            },
+            {
+                "name": "申请收录",
+                "url": "/more/add",
+                "red": true
+            }
+        ]
+    },
+    {
+        "name": "PJ-Boy",
+        "id": "pjboy",
+        "result": [
+            {
+                "name": "加入群聊",
+                "url": "http://qm.qq.com/cgi-bin/qm/qr?k=wu2CfBSUh3ZV_CLEUYoP-2WTCE8i4VqW",
+                "red": true
+            },
+			{
+                "name": "酷我音乐",
+                "url": "https://pan.baidu.com/s/17j6ApXNg7F2Xd5GNhQqTZw",
+                "red": false
+            },
+            {
+                "name": "电影天堂简",
+                "url": "https://pan.baidu.com/s/1J9rLwW9mEHKIatMumGt4bg",
+                "red": false
+            },
+            {
+                "name": "ADMPro",
+                "url": "https://pan.baidu.com/s/1qBb9f8jAkphiFizubxarew",
+                "red": false
+            },
+            {
+                "name": "追书神器",
+                "url": "https://pan.baidu.com/s/1Puh61OOi6afpGEuiXXboyQ",
+                "red": false
+            },
+            {
+                "name": "百度网盘",
+                "url": "https://pan.baidu.com/s/1FKKcJzpqcAd8gZp2tEFzAA",
+                "red": false
+            },
+            {
+                "name": "百度阅读",
+                "url": "https://pan.baidu.com/s/1p8HFjqVniaZiqdK1CtKJ_g",
+                "red": false
+            },
+            {
+                "name": "快点投屏",
+                "url": "https://pan.baidu.com/s/1LcJgSaDpaRALlpn0CqsVRA",
+                "red": false
+            },
+            {
+                "name": "滴答音乐",
+                "url": "https://pan.baidu.com/s/18lX4daNgCx-DYSkX9QpJ0A",
+                "red": false
+            },
+            {
+                "name": "新电影天堂",
+                "url": "https://pan.baidu.com/s/118j5qa6_X2t3R2goEUqBqw",
+                "red": false
+            },
+            {
+                "name": "迅雷",
+                "url": "https://pan.baidu.com/s/1112yvzCIR1bw55ncEwNbbQ",
+                "red": false
+            },
+            {
+                "name": "云视直播",
+                "url": "https://pan.baidu.com/s/1GPx4otnOskCT9EGLBGMFQg",
+                "red": false
+            }
+        ]
+    }
+]

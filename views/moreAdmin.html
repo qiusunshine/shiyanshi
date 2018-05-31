@@ -1,0 +1,75 @@
+<!doctype html>
+<html class="no-js">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>方圆实验室后台</title>
+    <!-- Set render engine for 360 browser -->
+    <meta name="renderer" content="webkit">
+    <!-- No Baidu Siteapp-->
+    <meta http-equiv="Cache-Control" content="no-siteapp"/>
+    <!-- Add to homescreen for Chrome on Android -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <!-- Add to homescreen for Safari on iOS -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="方圆实验室"/>
+    <!-- Tile icon for Win8 (144x144 + tile color) -->
+    <meta name="msapplication-TileColor" content="#0e90d2">
+    <script src="//cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+    <!-- Amaze UI CSS -->
+    <link rel="stylesheet" href="https://s2.pstatp.com/cdn/expire-1-M/amazeui/2.7.2/css/amazeui.min.css">
+    <!-- mui -->
+    <link rel="stylesheet" href="https://s1.pstatp.com/cdn/expire-1-M/mui/3.4.0/css/mui.min.css">
+    <script src="https://s1.pstatp.com/cdn/expire-1-M/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://s0.pstatp.com/cdn/expire-1-M/mui/3.4.0/js/mui.min.js"></script>
+    <script type="text/javascript" charset="utf-8">
+      	mui.init();
+    </script>
+    <style>
+        img{
+            height: 32px;
+        }
+    </style>
+</head>
+<body>
+<div class="am-panel am-panel-warning am-u-sm-12 am-u-sm-centered am-u-lg-8" id="main">
+		<header class="am-topbar">
+		  <h1 class="am-topbar-brand">
+		    <a href="/more/admin/fysys/top/hdy">方圆实验室后台管理</a>
+		  </h1>
+		  <button class="am-topbar-btn am-topbar-toggle am-btn am-btn-sm am-btn-default am-show-sm-only" data-am-collapse="{target: '#doc-topbar-collapse'}" style="background: #f8f8f8;border-color: #f8f8f8;"><span class="am-sr-only">导航</span> <span class="am-icon-bars"></span></button>
+		  <div class="am-collapse am-topbar-collapse" id="doc-topbar-collapse">
+		    <ul class="am-nav am-nav-pills am-topbar-nav">
+		      <li class="am-active"><a href="/more/admin/fysys/top/hdy">立即刷新</a></li>
+		      <li><a href="/upload">Admin</a></li>
+		      <li><a href="https://github.com/qiusunshine" target="_blank">项目地址</a></li>
+		    </ul>
+		  </div>
+		</header>
+		<div><ul class="mui-table-view" id="fy-data"></ul></div>
+        <div id="progressbar"></div>
+        <ul data-am-widget="pagination" class="am-pagination am-pagination-default">
+            <li class="am-pagination-prev ">
+                <a href="javascript:void(0);" onclick="nextPage()">下一页</a>
+            </li>
+            <li class="am-pagination-next ">
+                <a href="/more/add" >申请收录</a>
+            </li>
+        </ul>
+</div>
+
+<!--[if lt IE 9]>
+<script src="https://s1.pstatp.com/cdn/expire-1-M/modernizr/2010.07.06dev/modernizr.min.js"></script>
+<script src="https://s1.pstatp.com/cdn/expire-1-M/respond.js/1.4.2/respond.min.js"></script>
+<script src="//cdn.amazeui.org/amazeui/2.1.0/js/amazeui.legacy.min.js"></script>
+<![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<script src="https://s1.pstatp.com/cdn/expire-1-M/amazeui/2.7.2/js/amazeui.min.js"></script>
+<!--<![endif]-->
+<script src="/static/js/moreAdmin.js"></script>
+</body>
+</html>
